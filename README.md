@@ -1,5 +1,5 @@
 # sergurosAr
-Java REST post, update, delete y get
+Java Spring Boot REST post, update, delete y get
 
 
 ## End points.
